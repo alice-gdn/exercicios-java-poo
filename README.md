@@ -1,8 +1,8 @@
-# Exercícios Resolvidos - Curso de Java
+# Exercícios Resolvidos - Java COMPLETO - Programação Orientada a Objetos
 
 Este repositório contém os exercícios resolvidos do curso **Java COMPLETO - Programação Orientada a Objetos** ministrado pelo professor **Nélio Alves**. O objetivo é praticar e reforçar os conceitos abordados ao longo das aulas, incluindo fundamentos da linguagem, orientação a objetos, tratamento de exceções, manipulação de arquivos, entre outros.
 
-## ✔️ Progresso dos Tópicos
+##  Progresso dos Tópicos 
 
 - [x]  1: Introdução  
 - [x]  2: Conceitos de programação
