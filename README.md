@@ -4,23 +4,23 @@ Este repositório contém os exercícios resolvidos do curso **Java COMPLETO - P
 
 ##  Progresso dos Tópicos 
 
-- [x]  1: Introdução  
-- [x]  2: Conceitos de programação
-- [ ]  3: Introdução à linguagem Java  
-- [ ]  4: Estrutura sequencial
-- [ ]  5:  Estrutura Condicional  
-- [ ]  6: Estrturas repetitivas  
-- [ ]  7: Outros tópicos básicos sobre Java 
-- [ ]  8: Introdução à Programação Orientada a Objetos 
-- [ ]  9: Construtores, palavra this, sobrecarga, encapsulamento
-- [ ]  10: Comportamento de memória, arrays, listas
-- [ ]  11: Tópicos especiais em Java: data-hora
-- [ ]  12: Enumerações, composição
-- [ ]  13: Herança e Polimorfismo
-- [ ]  14: Tratamento de Exceções
-- [ ]  15: Trabalhando com arquivos
-- [ ]  16: Interfaces
-- [ ]  17: Generics, Set, Map
-- [ ]  18: Programação funcional e expressões lambda
+- [x]  Introdução  
+- [x] Conceitos de programação
+- [ ] Introdução à linguagem Java  
+- [ ] Estrutura sequencial
+- [ ] Estrutura Condicional  
+- [ ] Estrturas repetitivas  
+- [ ] Outros tópicos básicos sobre Java 
+- [ ] Introdução à Programação Orientada a Objetos 
+- [ ] Construtores, palavra this, sobrecarga, encapsulamento
+- [ ] Comportamento de memória, arrays, listas
+- [ ] Tópicos especiais em Java: data-hora
+- [ ] Enumerações, composição
+- [ ] Herança e Polimorfismo
+- [ ] Tratamento de Exceções
+- [ ] Trabalhando com arquivos
+- [ ] Interfaces
+- [ ] Generics, Set, Map
+- [ ] Programação funcional e expressões lambda
 ...
 
